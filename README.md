@@ -15,7 +15,7 @@
 
 ### 📄 Резюме
 
-Буду рад, если вы ознакомитесь с моим <a href="https://drive.google.com/file/d/1qlmUD8N8K26oVyrB9CBpDMD7Tc2u7FbJ/view?usp=sharing" target="_blank">резюме</a>. 
+Буду рад, если вы ознакомитесь с моим <a href="https://drive.google.com/file/d/1UMw2hT0rT6iPSLS9I4z4LqR2AA00bdAu/view?usp=sharing" target="_blank">резюме</a>. 
 
 ---
 
