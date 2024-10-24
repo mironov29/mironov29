@@ -77,12 +77,11 @@
 ---
 ### 🎓 Пройденные курсы
 
-📜 <a href="https://p13.zdusercontent.com/attachment/10812405/HhicKcLKShGteOZCtY20xgZTH?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..cFDjoDT0fC0NdUyiaLz0Tg.3WSrMysQ6vW77TxMFpWMgeBoWNvhzDB599tzqfEZxUcGbNThFJzUMhbQkHotmsUiQKMbZ70FLW2X2YdnmCdgp0dMrqiQ6Hn2ry_eax2_q4GAAndWIC6sXB60VUqLu5Bz6vD5aB3kh5yBf_1fsQgZrIRbTxCUCSkCgbbRgNtKrvFzoHuuoSUYPbUbQY-cMDbSiwNYi8y5dnr8zjrZ6mCtgPDQ0MbBohJlB_a-7ItMYZxcXxfIkW_czxyTKco2OFDrlCg2G19MBW7jqp9jKmFcD6qiYI1VYwZRQvZRq8TLZ2U.Pyro9kpxCSrpkD2wxpdvAw" target="_blank">Введение в программирование: "HTML5, CSS3"</a>
+📜 <a href="https://drive.google.com/file/d/1HDyGZBxzuWXHQF0a2IzTsbBgstmZvsIN/view?usp=sharing" target="_blank">Функциональное тестирование ПО</a>
 
-📜 <a href="https://p13.zdusercontent.com/attachment/10812405/3RCZvP0Ld0jP5DCCrMsbILpCP?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..GE-XN2tFaV2004gZvACgxA.qJEm_wWAPDDyDccBBZoqc0sr7NMDhessf8_20n7OMGAvxCcA07x4Mg93cBYdHO-ME61k4MOkOaVicgFt7JY1E6SOnKL_qr05X9QpNiwJhdD7O3vaw3JryV4LA-jlnuk4IILJ07B_GzSX27NwylUg_dTt2xKoULluGs5JUb3zfkiFGEhjuhs09mTMT8xwHSLPCZnNKTWa1JQQ6lpsXsQ4scbkbSOBhcfo66IbEX-7WrA3fKccaQJlDDAXivXOjcqbMooL_XVYNgQxd1lJcTzdD6IPwP4G0JtpP0-cQ345CO8.drHEZxJXI8SEzd2PdTKKnw" target="_blank">Frontend-разработчик</a>
+📜 <a href="https://drive.google.com/file/d/1_prCtxW3R-gnGTRbEB-XH33P_AcMKejl/view?usp=sharing" target="_blank">Основы SQL: быстрый старт</a>
 
-📜 <a href="https://p13.zdusercontent.com/attachment/10812405/HhicKcLKShGteOZCtY20xgZTH?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..cFDjoDT0fC0NdUyiaLz0Tg.3WSrMysQ6vW77TxMFpWMgeBoWNvhzDB599tzqfEZxUcGbNThFJzUMhbQkHotmsUiQKMbZ70FLW2X2YdnmCdgp0dMrqiQ6Hn2ry_eax2_q4GAAndWIC6sXB60VUqLu5Bz6vD5aB3kh5yBf_1fsQgZrIRbTxCUCSkCgbbRgNtKrvFzoHuuoSUYPbUbQY-cMDbSiwNYi8y5dnr8zjrZ6mCtgPDQ0MbBohJlB_a-7ItMYZxcXxfIkW_czxyTKco2OFDrlCg2G19MBW7jqp9jKmFcD6qiYI1VYwZRQvZRq8TLZ2U.Pyro9kpxCSrpkD2wxpdvAw" target="_blank">Функциональное тестирование ПО</a>
-
+📜 <a href="https://drive.google.com/file/d/1PpwtLdKYE8xt0G60OY7sZnGT9zeOg1IZ/view?usp=sharing" target="_blank">Frontend-разработчик</a>
 
 ---
 
